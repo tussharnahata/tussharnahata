@@ -17,13 +17,13 @@ I am a passionate **Full-Stack Developer** with expertise in **JavaScript, React
 - **[Online Course Website](#)** - A futuristic online learning platform.
 
 ### 📊 GitHub Stats
-![Tusshar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tusshar-Nahata&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusshar-Nahata&layout=compact&theme=radical&langs_count=8)
+![Tusshar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tussharnahata&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tussharnahata&layout=compact&theme=radical&langs_count=8)
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tusshar-Nahata&theme=radical)  
-![Tusshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusshar-Nahata&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusshar-Nahata&layout=compact&theme=radical&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tussharnahata&theme=radical)  
+![Tusshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tussharnahata&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tussharnahata&layout=compact&theme=radical&langs_count=8)
 
 ### ✨ Fun Fact
 💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
