@@ -16,9 +16,6 @@ I am a passionate **Full-Stack Developer** with expertise in **JavaScript, React
 - **[EPR System](#)** - An enterprise resource planning system for business management.
 - **[Online Course Website](#)** - A futuristic online learning platform.
 
-### 📊 GitHub Stats
-![Tusshar's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tussharnahata&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tussharnahata&layout=compact&theme=radical&langs_count=8)
 
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tussharnahata&theme=radical)  
